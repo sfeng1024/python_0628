@@ -1,0 +1,49 @@
+📅 2025-07-03 23:25:00 开始监控...
+📭 没有找到符合条件的岗位
+📅 2025-07-03 23:26:00 开始监控...
+📭 没有找到符合条件的岗位
+📅 2025-07-03 23:27:00 开始监控...
+📭 没有找到符合条件的岗位
+📅 2025-07-03 23:28:00 开始监控...
+📭 没有找到符合条件的岗位
+📅 2025-07-03 23:29:38 开始监控...
+❌ 网页抓取失败：HTTPSConnectionPool(host='www.shixiseng.com', port=443): Max retries exceeded with url: /interns?type=intern&city=%E5%85%A8%E5%9B%BD (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10c9f2cf0>: Failed to establish a new connection: [Errno 50] Network is down'))
+📭 没有找到符合条件的岗位
+📅 2025-07-03 23:30:00 开始监控...
+📭 没有找到符合条件的岗位
+-bash: 5: command not found
+📅 2025-07-04 07:05:01 开始监控...
+📄 即将发送的内容:
+🎯 **发现 Java 岗位如下：**
+
+- [全球奖酬数据咨询实习](https://www.shixiseng.com/intern/inn_ginkqdisqozr?pcm=pc_SearchList)
+- [算法分析实习](https://www.shixiseng.com/intern/inn_ikdpx8wsqupw?pcm=pc_SearchList)
+- [托福指导老实习](https://www.shixiseng.com/intern/inn_cprj0r2j3obr?pcm=pc_SearchList)
+- [新媒体运营实习（海外业务）()](https://www.shixiseng.com/intern/inn_nmsslsuwfu6f?pcm=pc_SearchList)
+- [实习（驻华夏）()](https://www.shixiseng.com/intern/inn_ogz0ppisby3c?pcm=pc_SearchList)
+- [支持实习](https://www.shixiseng.com/intern/inn_dw2jghh73lek?pcm=pc_SearchList)
+- [力资源实习()](https://www.shixiseng.com/intern/inn_mn00zz1nugyu?pcm=pc_SearchList)
+- [务实习-税务](https://www.shixiseng.com/intern/inn_sfihqvzrsxli?pcm=pc_SearchList)
+- [全球奖酬数据咨询实习](https://www.shixiseng.com/intern/inn_v4kgntrribja?pcm=pc_SearchList)
+- [视频剪辑实习](https://www.shixiseng.com/intern/inn_chj5plq04fkf?pcm=pc_SearchList)
+- [医疗咨询实习-药品团队](https://www.shixiseng.com/intern/inn_qvvoum5hixov?pcm=pc_SearchList)
+- [医药代表销售实习](https://www.shixiseng.com/intern/inn_l3m2aap0pkyq?pcm=pc_SearchList)
+- [制执实习](https://www.shixiseng.com/intern/inn_surq04ietlbb?pcm=pc_SearchList)
+- [算法实习（视觉方向）](https://www.shixiseng.com/intern/inn_sjb8s6klnbuf?pcm=pc_SearchList)
+- [商管理实习](https://www.shixiseng.com/intern/inn_mnzkkoowtgbd?pcm=pc_SearchList)
+- [医药代表销售实习](https://www.shixiseng.com/intern/inn_qkp9tpmxfl8a?pcm=pc_SearchList)
+📤 推送状态码: 200
+📤 返回内容: {"code":0,"message":"","data":{"pushid":"5010679","readkey":"SCTcNDVIjqSLaCp","error":"SUCCESS","errno":0}}
+✅ 微信通知发送成功
+📅 2025-07-07 07:05:00 开始监控...
+📄 即将发送的内容:
+🎯 **发现 实习 岗位如下：**
+
+- [务实习](https://www.shixiseng.com/intern/inn_tn9357koi8eq?pcm=pc_SearchList)
+- [顾问实习 （猎头）](https://www.shixiseng.com/intern/inn_xr6vap2ejzwa?pcm=pc_SearchList)
+- [新闻采编实习](https://www.shixiseng.com/intern/inn_gxivd4xqst17?pcm=pc_SearchList)
+- [新媒体短视频拍摄实习](https://www.shixiseng.com/intern/inn_e6ri5yj0tr0u?pcm=pc_SearchList)
+- [助理实习](https://www.shixiseng.com/intern/inn_c9huq4uhmbzc?pcm=pc_SearchList)
+📤 推送状态码: 200
+📤 返回内容: {"code":0,"message":"","data":{"pushid":"5283394","readkey":"SCTSHxL4Usa9mpW","error":"SUCCESS","errno":0}}
+✅ 微信通知发送成功
